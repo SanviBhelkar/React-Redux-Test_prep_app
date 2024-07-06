@@ -1,4 +1,4 @@
-A Test Prep App usind react-redux.
+A Test Prep App using react-redux.
 
 It is Crud application used to add, edit and delete student information.
 Home page: displays a table of currect students enrolled with a button to add students.
